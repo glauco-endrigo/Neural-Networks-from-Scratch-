@@ -1,4 +1,6 @@
 
+![NNFS](https://user-images.githubusercontent.com/59807514/88418528-10f00d00-cdba-11ea-808a-4b9eba7fd260.PNG)
+
 ## Neural Networks from Scratch with Python from  the youtube channel [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 "The goal is to break it down so much that it is panfully simple "
