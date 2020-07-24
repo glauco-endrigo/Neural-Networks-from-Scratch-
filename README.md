@@ -12,6 +12,7 @@ The purpuse is to know how neural networks works at a very deep level, because t
 ##   Content:
 
 #### 1. P.1 Intro and Neuron Code
+#### 2. P.2 Coding a Layer
 
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
