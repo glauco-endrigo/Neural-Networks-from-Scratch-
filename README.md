@@ -15,6 +15,7 @@ The purpuse is to know how neural networks works at a very deep level, because t
 #### 2. P.2 Coding a Layer
 #### 3. P.3 The Dot Product
 #### 4. P.4 Batches, Layers, and Objects
+#### 5. P.5 Hidden Layer Activation Functions
 
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
